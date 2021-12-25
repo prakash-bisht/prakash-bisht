@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Document AI**
 
-- 🌱 I’m currently learning **AutoML with AWS and Reinforcement Learning**
+- 🌱 I’m currently learning **AutoML with AWS,Reinforcement Learning and specializing in DSA**
 
 - 💬 Ask me about **data science,deep learning and neural networks architectures**
 
