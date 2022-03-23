@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Prakash Singh</h1>
 <h3 align="center">Artificial Intelligence/Machine Learning Developer</h3>
 
-- 🔭 I’m currently working on **Document AI**
+- 🔭 I’m currently working on **document intelligence**
 
 - 🌱 I’m currently learning **AutoML with AWS,Reinforcement Learning and specializing in DSA**
 
 - 💬 Ask me about **data science,deep learning and neural networks architectures**
 
-- 📫 How to reach me **prkshismad@gmail.com**
+- 📫 Reach me on **prkshismad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prkshbisht_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prkshbisht_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/noahbisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noahbisht" height="30" width="40" /></a>
-<a href="https://fb.com/dragon.bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dragon.bisht" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
